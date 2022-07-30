@@ -1,7 +1,8 @@
-- 👋 Hi, My name is lathitha.
-- 👀 I’m interested in COMPUTER SCIENCE!
+- 👋 Hello there, My name is Lathitha.
+- 👀 I’m only a COMPUTER SCIENCE enthusiast!
 - 🌱 I’m currently learning from computer science related sources like @www.freecodecamp.org,@m.youtube.com etc..
-- 💞️ I’m looking forward to "new learning experiences" from any relevant source that might be helpful.
+- 💞️ I’m looking forward to "new learning experiences" from any relevant source/sources that might be helpful.
+-     LOOK OUT FOR MY PROJECT/REPOSITORY IN THE FUTURE TIME.
 -     Did you know lathitha-dev/lathitha-dev is my first www.github.com repository!
 <!---
 lathitha-dev/lathitha-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
