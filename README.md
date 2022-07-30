@@ -1,6 +1,6 @@
 - 👋 Hi, I’m lathitha.
 - 👀 I’m interested in COMPUTER SCIENCE!
-- 🌱 I’m currently learning @www.freecodecamp.org
+- 🌱 I’m currently learning from computer science related sources like @www.freecodecamp.org,youtube etc..
 - 💞️ I’m looking forward to "new learning experiences"from any relevant source that might be helpful.
 
 <!---
